@@ -14,7 +14,7 @@
  In this program, we check if a person’s eyes have been closed while looking at the screen.
  If the eyes have been closed for an extended period (beyond a certain threshold value), the program will alert the user by playing an alarm sound and showing a message.
 
-Video will be added soon![alt text]()
+[Testing Video](https://www.youtube.com/watch?v=o82xeXoxKVc)
 
 ## Technologies Used
 
